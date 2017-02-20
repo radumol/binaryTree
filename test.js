@@ -1,6 +1,4 @@
-// COMP2406
-// Assignment 1
-//Radu Molea(100992298)
+//Author: Radu Molea
 
 
 //test
